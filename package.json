@@ -1,5 +1,5 @@
 {
-  "name": "jsinspect",
+  "name": "jsinspect_support_ts",
   "version": "0.12.7",
   "description": "Detect structural similarities in your code",
   "keywords": [
@@ -11,12 +11,12 @@
     "copy",
     "paste"
   ],
-  "author": "Daniel St. Jules <danielst.jules@gmail.com>",
+  "author": "JoeMaybe <impjoey@163.com>",
   "license": "MIT",
-  "homepage": "https://github.com/danielstjules/jsinspect",
+  "homepage": "https://github.com/JoeMaybe/jsinspect/tree/feature_ts_support",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danielstjules/jsinspect.git"
+    "url": "https://github.com/JoeMaybe/jsinspect.git"
   },
   "dependencies": {
     "@babel/parser": "^7.3.4",
